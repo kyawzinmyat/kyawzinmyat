@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Kyaw Zin Myat or you can call me Theo!
-<img alt="Developer at Work" src="![photo_2025-02-05_23-53-22](https://github.com/user-attachments/assets/e6f487c4-ff5f-4391-8018-9a2bfbb65f3a)
-">
+![photo_2025-02-05_23-53-22](https://github.com/user-attachments/assets/2a9007f7-1a34-447e-80c9-c8431cdfdf61)
+
 🚀 Odoo Developer | MERN Stack Enthusiast | Aspiring DevOps & Cloud Engineer
 
 🧑‍💻 About Me
@@ -25,14 +25,18 @@ Here are some of the tools and technologies I work with:
 <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kyawzinmyat&amp;show_icons=true&amp;theme=radical">
 
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawzinmyat&amp;layout=compact&amp;theme=radical">
+
 🎨 Fun Facts
 🛠️ I love tinkering with new tools and frameworks to expand my skillset.
+
 🌍 I’m always curious about how technology can make businesses more efficient.
+
 📚 Lifelong learner with a strong interest in backend systems and cloud infrastructure.
 
 
 🌐 Let's Connect!
 💬 Feel free to reach out if you want to collaborate or discuss tech!
+
 📧 Email: kyawzinmyat.dev@gmail.com
 🌐 Portfolio: kyawzinmyat.github.io
 💼 LinkedIn: https://www.linkedin.com/in/kyawzin-myat/
