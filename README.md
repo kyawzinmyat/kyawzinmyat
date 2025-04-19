@@ -1,24 +1,19 @@
-## Hi there 👋
+Hi there! 👋 I'm [Your Name]
+🚀 Odoo Developer | MERN Stack Enthusiast | Aspiring DevOps & Cloud Engineer
 
+About Me
+🌱 Currently Learning: MERN Stack (MongoDB, Express.js, React, Node.js)
+💻 Experienced In: Odoo Development, Python, and ERP Customization
+☁️ Future Goals: Dive into DevOps practices and explore Cloud technologies like AWS, Azure, and Docker
+🎯 Passionate About: Building scalable applications, automating workflows, and solving real-world problems with technology
 
-- 🔭 I’m currently working on developing web applicatin using MERN stack
-- 🌱 I’m currently learning the hard part of the Javascript
-- 👯 I’m looking to collaborate on python projects specially odoo
-- 🤔 I’m looking for help with my UI/UX
-- 😄 Pronouns: ... quack
-- ⚡ Fun fact: ... On error resume next
+Fun Facts
+🛠️ I love tinkering with new tools and frameworks to expand my skillset.
+🌍 I’m always curious about how technology can make businesses more efficient.
+📚 Lifelong learner with a strong interest in backend systems and cloud infrastructure.
 
-<!--
-**kyawzinmyat/kyawzinmyat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's Connect!
+💬 Feel free to reach out if you want to collaborate or discuss tech!
+📧 Email: kyawzinmyat.dev@gmail.com
+🌐 Portfolio: kyawzinmyat.github.io
+💼 LinkedIn: https://www.linkedin.com/in/kyawzin-myat/
