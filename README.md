@@ -1,5 +1,4 @@
 Hi there! 👋 I'm Kyaw Zin Myat or you can call me Theo!
-![photo_2025-02-05_23-53-22](https://github.com/user-attachments/assets/2a9007f7-1a34-447e-80c9-c8431cdfdf61)
 
 🚀 Odoo Developer | MERN Stack Enthusiast | Aspiring DevOps & Cloud Engineer
 
