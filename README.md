@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+- 🔭 I’m currently working on developing web applicatin using MERN stack
+- 🌱 I’m currently learning the hard part of the Javascript
+- 👯 I’m looking to collaborate on python projects specially odoo
+- 🤔 I’m looking for help with my UI/UX
+- 😄 Pronouns: ... quack
+- ⚡ Fun fact: ... On error resume next
+
 <!--
 **kyawzinmyat/kyawzinmyat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
