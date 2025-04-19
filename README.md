@@ -1,5 +1,6 @@
 Hi there! 👋 I'm Kyaw Zin Myat or you can call me Theo!
-<img alt="Developer at Work" src="https://via.placeholder.com/800x200.png?text=Welcome+to+My+Profile">
+<img alt="Developer at Work" src="![photo_2025-02-05_23-53-22](https://github.com/user-attachments/assets/e6f487c4-ff5f-4391-8018-9a2bfbb65f3a)
+">
 🚀 Odoo Developer | MERN Stack Enthusiast | Aspiring DevOps & Cloud Engineer
 
 🧑‍💻 About Me
@@ -28,10 +29,12 @@ Here are some of the tools and technologies I work with:
 🛠️ I love tinkering with new tools and frameworks to expand my skillset.
 🌍 I’m always curious about how technology can make businesses more efficient.
 📚 Lifelong learner with a strong interest in backend systems and cloud infrastructure.
+
+
 🌐 Let's Connect!
 💬 Feel free to reach out if you want to collaborate or discuss tech!
 📧 Email: kyawzinmyat.dev@gmail.com
 🌐 Portfolio: kyawzinmyat.github.io
 💼 LinkedIn: https://www.linkedin.com/in/kyawzin-myat/
-📷 Placeholder for Personal Photo or Banner
-<img alt="Placeholder Image" src="https://via.placeholder.com/400x200.png?text=Your+Photo+Here">
+
+![68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7476626571376d4544325f7465513d3d2d3335303032373431382e313439333662386131353564393634623131393432383336353239312e6a7067](https://github.com/user-attachments/assets/6a04decc-889e-43f3-b810-e8e01b188dba)
